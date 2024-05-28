@@ -1,0 +1,10 @@
+.title{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.formulario {
+  display: flex;
+  margin: 0 auto;
+}
