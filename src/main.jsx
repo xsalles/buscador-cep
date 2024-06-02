@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import Cep from './App.jsx'
-import './index.css'
+import Cep from "../src/App.jsx"
+import "../src/App.css"
 
 
 
