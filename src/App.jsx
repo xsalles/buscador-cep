@@ -1,13 +1,21 @@
 import './App.css'
-import Fundo from './assets/fundo.jpg'
 
-export default function App() {
+
+
+
+export default function Cep() {
   return (
-    
-    <div className="CEP">
-      
-      <div className="title">
+
+    <div className="cep">
+      <nav className="nav">
         <h1>Buscador de CEP</h1>
+        <a href="https://viacep.com.br/">Site contribuinte</a>
+        <a href="https://www.instagram.com/xs.salles/?next=%2F">Instagram do DEV</a>
+        <a href="https://www.linkedin.com/in/pedro-sales-00090a274/">LinkedIN</a>
+        <a href="https://github.com/xsalles">Git Hub</a>
+      </nav>
+      <div className="title">
+        <h1>FORMULÁRIO DE CEP</h1>
       </div>
       <div className="form">
         <div className="itens-form">
@@ -29,8 +37,12 @@ export default function App() {
           <form>
             <input placeholder='Número' type="text" />
           </form>
+          
         </div>
       </div>
+      <footer className="end">
+        <h1>Sales</h1>
+      </footer>
     </div>
 
 
