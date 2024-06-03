@@ -1,6 +1,8 @@
 import './App.css'
 
 
+
+
 export default function Cep(props) {
     return (
 
@@ -34,6 +36,9 @@ export default function Cep(props) {
                     </form>
                     <form>
                         <input placeholder='Número' type="text" />
+                    </form>
+                    <form>
+                        <input type="submit"  />
                     </form>
 
                 </div>

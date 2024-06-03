@@ -13,6 +13,10 @@
   height: 100vh;
   background-color: black;
   align-items: center;
+  background-image: url("https://images.pexels.com/photos/3377405/pexels-photo-3377405.jpeg?cs=srgb&dl=pexels-elina-araja-1743227-3377405.jpg&fm=jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .nav {
@@ -72,6 +76,20 @@
   font-family: "Krona One", sans-serif;
 }
 
+.itens-form input[type=submit] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  width: 600px;
+  padding: 15px;
+  gap: 300px;
+  color: black;
+  background-color: white;
+  font-family: "Krona One", sans-serif;
+  cursor: pointer;
+}
+
 .end {
   display: flex;
   align-items: center;
@@ -93,5 +111,4 @@
 .end a {
   text-decoration: none;
   color: white;
-
 }
