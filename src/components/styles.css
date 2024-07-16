@@ -5,6 +5,7 @@
 * {
   margin: 0;
   padding: 0;
+  caret-color: transparent;
 }
 
 .cep {
@@ -34,7 +35,6 @@
 
 .nav h1 {
   background-color: blue;
-  
 }
 
 .nav a {
@@ -72,6 +72,7 @@
   color: black;
   background-color: white;
   font-family: "Krona One", sans-serif;
+  caret-color: black;
 }
 
 .itens-form input[type=submit] {
