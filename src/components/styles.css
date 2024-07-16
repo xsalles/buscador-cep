@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=REM:ital,wght@0,100..900;1,100..900&display=swap');
 
+
 * {
   margin: 0;
   padding: 0;
@@ -33,7 +34,7 @@
 
 .nav h1 {
   background-color: blue;
-
+  
 }
 
 .nav a {
@@ -41,7 +42,6 @@
   color: white;
   background-color: blue;
 }
-
 
 
 .title {
@@ -90,7 +90,6 @@
 .end {
   display: flex;
   align-items: center;
-  
   flex-direction: column;
   gap: 20px;
   color: white;
@@ -108,3 +107,4 @@
   text-decoration: none;
   color: white;
 }
+
