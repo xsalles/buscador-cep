@@ -8,4 +8,4 @@ Para rodar o projeto no seu computador é bem simples. Clone o arquivo para o se
 
 # npm run dev
 
-Feito isso vocÊ já pode fazer testes nele"
+Feito isso vocÊ já pode fazer testes nele!
