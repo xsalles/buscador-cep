@@ -1,8 +1,11 @@
-# React + Vite
+# Buscador de CEP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O projeto buscador de cep, é um projeto que consome a API do ViaCep e que usou React como tecnologia principal.
 
-Currently, two official plugins are available:
+Ele foi desenvolvido, para que quando a pessoa coloque o CEP dela no campo devido, os campos como: "Estado", "Bairro" e "Cidade", fiquem completos automaticamente e isso nós chamamos de Auto-complete.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para rodar o projeto no seu computador é bem simples. Clone o arquivo para o seu computador e abra o terminal na sua IDE e coloque o seguinte comando:
+
+# npm run dev
+
+Feito isso vocÊ já pode fazer testes nele"
